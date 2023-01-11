@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "name": "ROOT",
+      "path": "../"
+    },
+    {
+      "name": "apps/docs",
+      "path": "../apps/docs"
+    },
+    {
+      "name": "apps/web",
+      "path": "../apps/web"
+    },
+    {
+      "name": "packages/eslint-config",
+      "path": "../packages/eslint-config"
+    },
+    {
+      "name": "packages/tsconfig",
+      "path": "../packages/tsconfig"
+    },
+    {
+      "name": "packages/ui",
+      "path": "../packages/ui"
+    },
+  ],
+  "settings": {
+    "files.exclude": {
+      "node_modules/": true,
+      "packages/": true
+    },
+  }
+}
