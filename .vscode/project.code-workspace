@@ -5,6 +5,10 @@
       "path": "../"
     },
     {
+      "name": "github workflows",
+      "path": "../.github/workflows"
+    },
+    {
       "name": "apps/docs",
       "path": "../apps/docs"
     },
